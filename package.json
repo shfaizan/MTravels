@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "firebase": "^11.7.3",
+    "stripe": "^18.1.0"
+  }
+}
