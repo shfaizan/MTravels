@@ -1,5 +1,11 @@
 {
+  "name": "mtravels",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve"
+  },
   "dependencies": {
+    "serve": "^14.2.0",
     "firebase": "^11.7.3",
     "stripe": "^18.1.0"
   }
